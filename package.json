@@ -1,6 +1,6 @@
 
 {
-  "name": "finanzas-ai-app",
+  "name": "finanzas-ai-funcional",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
